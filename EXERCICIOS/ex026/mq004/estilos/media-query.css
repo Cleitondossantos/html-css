@@ -22,6 +22,7 @@ Grandes telas: acima de 1200px
         background-image: url(../imagens/back-print.jpg); /*Desnecessario*/
     }
 
+
     main {
         width: 90vw;
         border: 2px solid black;
@@ -85,4 +86,4 @@ Grandes telas: acima de 1200px
     img#tv {display: block;}
 }
 
-
+body {}
